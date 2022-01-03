@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+    font-size: 35px;
+}
+.yellow-colour{
+    color: rgb(252, 190, 21);
+}
+section{
+    display: flex;
+}
+.fifty-width{
+    width: 50%;
+    padding-left: 15%;
+    padding-top: 4%;
+}
+.fifty-width img{
+    width: 70%;
+    padding-top: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange , tomato);
+    padding: 7px 35px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
